@@ -1,0 +1,17 @@
+Component List for (Simply Raspberry Pi Book):
+---------------------------------------------------
+(1) - Raspberry Pi (Mod B)
+(1) - BreadBoard 
+(1) - Plastic Box for Raspberry pi
+(10) - Female to Male Jumpers
+(10) - Male to Male Jumpers
+(5) - Resistor (10 Kohm)
+(5) - Resistor (1 Kohm)
+(5) - Resistor (300 ohm)
+(2) - Push Buttons
+(1) - LDR (light sensors)
+(2) - Red Led
+(1) - Relay Board 2 Relays
+(1) - Motion Detector
+(1) - ULN2004 (or ULN2003)
+---------------------------------------------------
